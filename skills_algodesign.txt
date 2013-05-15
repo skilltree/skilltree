@@ -1,0 +1,40 @@
+Algorithm Design
+	Lv. 1:
+		Familiarity with Programming Basics
+		Pseudocode
+		Bubble, Selection and Insertion Sort
+		Arrays, Linked Lists, Stacks, and Queues
+		Graphs and Trees
+	Lv. 2:
+		Heaps, BSTs, Dictionaries, and Hash Tables
+		Augmented Data Structures
+		Complexity and Correctness
+		Optimizing for Expected and Worst Cases
+		Graph Algorithms
+			Breadth-First and Depth-First Search
+			Topological Sort
+			Strongly Connected Components
+		Divide and Conquer Algorithms
+			Quicksort, Merge Sort
+	Lv. 3:
+		Dynamic Programming
+		Greedy Algorithms
+		Amortized Analysis
+		Graph Algorithms
+			Spanning Trees
+				Prim and Kruskal's Algorithms
+			Shortest Paths
+			Flow Networks
+		Approximation and Heuristic Algorithms
+		Fibonacci Heaps
+		(B-Trees, van Emde Boas Trees, Disjoint sets
+			-- I don't know what these are, but they were in Intro to Algos)
+	Other Specialized Topics I Don't Know Where to Put:		
+		Multithreading
+		Matrix Operations
+		Linear Programming
+		Number Theory Algorithms
+		String Matching
+		Computational Geometry
+		
+		

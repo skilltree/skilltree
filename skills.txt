@@ -94,3 +94,54 @@ case study:
 		OS choice
 		HIDs
 
+	Algo Design
+		Data Structures and Their Uses
+			Stacks and Queues
+			Linked Lists and Arrays
+				Hash Tables and Dictionaries
+			Graphs and Trees
+				Heaps
+				Binary Search Trees
+		Complexity and Correctness
+			Optimizing for Average Time v. Worst-Case
+		Sorting Algorithms
+			Bubble, Insertion, and Selection
+			Quicksort, Merge
+			Using Graphs: Heapsort and BSTs
+		Graph Algorithms
+		Greedy Algorithms
+		Divide and Conquer
+		Approximation and Heuristic Algorithms
+		Dynamic Algorithms
+
+	Programming
+		Basic Concepts
+			How a Program Executes (line-by-line)
+			Decision and Branching (if-else)
+			Iteration (loops, recursion)
+			Commenting, Readability, and Conventions
+		Procedural Programming
+			Variables and State
+			Procedures
+			Scope (Dynamic v. Static)
+			The Languages (C, Fortran, BASIC,)
+		Logic Programming
+			Rules and Queries
+			Horn Clauses
+			Cut
+			Negation as Failure
+			The Languages (Prolog,)
+		Functional Programming
+			Lambda Calculus
+			Currying
+			Higher-Order Functions
+			Pure Functions
+			Eager v. Lazy
+			The Languages (Racket/Scheme, Haskell,)
+		Object-Oriented
+			Classes and Objects
+			Inheritance and Polymorphism
+			Encapsulation
+			The Languages (C++, Java, Python,)
+		Compilers
+			

@@ -1,0 +1,18 @@
+PC Building:
+	Lv. 1: What Everything Is, Where Everything Goes
+		Motherboard Form Factors and Case Size
+		Identification of Parts and Socket Types
+		Beginner Architecture (which are supported, how much support)
+		Installing the OS and Drivers
+		Basic Cooling (what and where need fans)
+		Basic Power Management (picking a sufficiently powerful PSU)
+		Safety and Sanitation Measures (e.g. avoiding static shocks)
+		Damage Control and Troubleshooting
+	Lv. 2: I Don't Have a Name for This Level Yet
+		Overclocking
+		Advanced Cooling (how much cooling is needed; types of cooling)
+		Basic Architecture (support for multiple GPUs, RAID)
+		Multiple GPUs
+		RAID
+		Bottlenecking
+		Reading Performance Specs (what's relevant or needed)
