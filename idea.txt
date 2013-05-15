@@ -1,0 +1,73 @@
+create a Junior Hackers Handbook, modelled after the Scouts Handbook
+contains:
+     
+
+   * badges for milestones, including explanation + resources on how to achieve each milestone
+
+   * badges linked by dependencies
+   * P2P method of verifying badges (someone who has the badge can verify it for you)
+   * lives online, constantly evolving (via git)
+   * organized by streams --> based on what careers it could lead to
+   * community guidelines (as an algorithm) 
+   * user profiles
+
+      * show badges
+      * completion of 
+      * show project repositories
+
+
+
+what a programmer should know
+
+   * git
+
+   * unix
+
+   * set up a unix machine
+
+   * set up a server
+
+   * build a website
+
+   * build a responsive
+
+   * build a web app
+
+   * build a mobile app
+
+   * regular expressions
+
+   * testing
+
+   * algorithms
+
+   * functional programming
+
+   * computer security
+
+   * web security
+
+   * machine learning
+
+   * project management
+
+   * design an API
+
+   * refactoring
+
+   * literate commenting
+
+   * understanding customers
+
+
+
+future careers
+     ux
+     data analysis
+     data visualization
+     hardware prototyping
+     startup founder
+     
+
+http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book
+
