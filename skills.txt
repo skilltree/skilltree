@@ -1,0 +1,96 @@
+case study:
+	web dev:
+		Thourough HTML
+		Basic CSS
+		Javascript w/ jQuery
+		HTTP Communication (POST, GET, etc.)
+		Databases
+		Web frameworks
+			MVC in general
+			different languages (choice)
+		Servers
+		Sockets
+		Testing
+		Specific JS libraries
+		Remote control
+		VMs
+
+	sysadmin (*nix):
+		coreutils
+		filesystem structure
+		permissions
+		monitoring tools
+		benchmarking
+		troubleshooting
+		standard config files
+		conventions (dotfiles, location of configs, loc of executables)
+		shell scripting
+		compiling and patching
+		package management (manual and through a pkg manager)
+
+	Android Development:
+		Java
+		XML
+		MVC
+		UI design
+		UX design
+		Low(ish) level hardware control
+			camera
+			gyro
+			accelerometer
+			etc
+
+	iOS Development:
+		Get a Mac
+		MVC
+		XCode
+		UI design
+		UX design
+		Low(ish) level hardware control
+			camera
+			gyro
+			accelerometer
+			etc
+
+	Ricing (mostly Linux, some relevant to Windows):
+		config files
+		DEs
+		WMs
+		font rendering & font choice
+		UI customization
+		scripting
+		hardware monitoring
+		ricing programs
+
+	PC development
+		Programming fundamentals
+		scripting
+		C or another low level language
+		High Level languages
+		Assembly
+		UI Libraries
+		Protocols (ftp, http, etc)
+
+
+	HW dev
+		logic gates
+		computer organization
+		Verilog/VHDL
+		cross-device communication
+		optoelectronics
+		sensors
+		actuators
+		Power management
+		HW optimization
+		Soldering
+
+	PC building
+		CPUs, RAM & Mobos
+		GPUs & Displays
+		Architectures
+		Cooling
+		HDD & SSD management (RAID, IDE, SATA)
+		Bottlenecking
+		OS choice
+		HIDs
+
