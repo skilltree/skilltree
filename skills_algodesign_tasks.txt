@@ -1,19 +1,23 @@
 Algorithm Design Verification Challenges
 
-Lv. 1:
-  Build a program that implements bubble, selection and insertion sorts on arrays, linked lists, stacks, and queues.
+Lv. 1: 
+  Build a program that implements bubble, selection and insertion sorts on arrays, linked lists, stacks, and/or queues.
   Draw different types of graphs and trees and be able to distinguish between them (e.g. a non-directed, non-weighted graph of vertices on a geometric solid; a weighted graph for toll roads between cities; a directed graph for a choose-your-own-adventure story; a family tree; etc.)
+  Notes: Task 1 has more priority; bubble and one of selection or insertion sort should be implemented; program should operate on arrays and any of stacks/queues/linked lists (which should be implemented by the challenger). Knowledge of graphs should probably be assumed knowledge for higher levels.
 
 Lv. 2: (Probably only need to complete some percentage of these tasks)
-  Build a program that sorts arrays of numbers using quicksort and mergesort.
-  Build a program that uses arrays of numbers to populate heaps and BSTs, and use those to sort the arrays.
+  Build a program that sorts arrays of numbers using quicksort or mergesort.
+  Build a program that uses arrays of numbers to populate heaps or BSTs, and use those to sort the arrays.
   Build a program that converts a given (non-directed) graph into a tree using breadth-first search.
   Build a program that sorts the nodes in a directed acyclic graph (this is topological sort, uses depth-first search)
   Build a program that finds the strongly connected components of a directed graph.
+  Notes for programs: 1 and 2 should be completed, only one of quicksort and mergesort and one of heaps or BSTs need be implemented. Any two of 3-5 should be completed (3 is background for minimum spanning, 4 and 5 test depth-first search).
   Construct proofs for your program(s) showing their complexity and correctness.
   Construct a proof comparing insertion and selection sort, demonstrating which is better for which cases.
+  Note for proofs: Only the second need be completed, it requires complexity proofs. I don't think correctness proofs are crucial and need verification.
 
 Lv. 3: (My knowledge here is a little spotty)
   Build a program that finds the minimum spanning tree and shortest path for a graph.
   Build a program that can find the optimum path in a flow networked graph.
   Build a program that finds all the prime factors of a number (using dynamic programming).
+  Notes: The graph theoretical problems should be building on previous levels, maybe only one of the two need be completed. The prime factorization is nigh trivial and shouldn't be too much trouble to implement.
