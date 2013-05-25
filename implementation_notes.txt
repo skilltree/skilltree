@@ -1,0 +1,7 @@
+programs should come with tests
+need some way to link to git repo (to access code)
+	need a link/some way to execute code in any language
+	alternatively, need to just see the output (due to language/setup quirks)
+	use fill-in code templates?
+security issues around executing code?
+
