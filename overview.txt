@@ -1,0 +1,38 @@
+PITCH
+
+- explore careers and goals and select ones you're interested in
+- we generate a skill path just for you
+- each skill tells you:
+  - what it is
+  - why it's useful
+  - points you to resources to help you master the skill
+  - provides ways to prove you can do it
+- pick a skill and start working on it
+- ask the community for help if you need it
+- when you're ready to claim a skill, submit your poof and a member of the community will evaluate it
+- what next?
+ - keep working on skills
+ - answer others' questions
+ - submit and vote on resources
+ - improve skill sheets
+ - verify others' skills
+
+
+
+
+
+
+
+ - start with programming
+ - skills == badges/achievements == progress + reward
+ - goals == careers, abilities
+ - P2P validation, content curation
+
+
+
+ every skill:
+  - title
+  - what it is / what can you do / why important
+  - resources (w/ upvotes/downvotes)
+  - how to test/prove
+  - prerequisites/postrequisites
