@@ -1,0 +1,4 @@
+- user stories
+- list of goals, skills
+  - from what we know
+  - from sample job posting
