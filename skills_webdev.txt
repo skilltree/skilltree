@@ -1,0 +1,13 @@
+Web Dev:
+	Lv.1:
+		Basic languages:
+			HTML
+			PHP
+			CSS
+			Javascript
+		Design (like spacing, crowdedness, etc.)
+	Lv.2-3:
+		More Javascript and Jquery
+		Frameworks
+		Databases and SQL
+		APIs and Backends (like Node.js?)

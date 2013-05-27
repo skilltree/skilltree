@@ -1,11 +1,11 @@
 Algorithm Design
-	Lv. 1:
+	Lv.1:
 		Familiarity with Programming Basics
 		Pseudocode
 		Bubble, Selection and Insertion Sort
 		Arrays, Linked Lists, Stacks, and Queues
 		Graphs and Trees
-	Lv. 2:
+	Lv.2:
 		Heaps, BSTs, Dictionaries, and Hash Tables
 		Augmented Data Structures
 		Complexity and Correctness
@@ -16,7 +16,7 @@ Algorithm Design
 			Strongly Connected Components
 		Divide and Conquer Algorithms
 			Quicksort, Merge Sort
-	Lv. 3:
+	Lv.3:
 		Dynamic Programming
 		Greedy Algorithms
 		Amortized Analysis

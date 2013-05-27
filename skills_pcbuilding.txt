@@ -1,5 +1,5 @@
 PC Building:
-	Lv. 1: What Everything Is, Where Everything Goes
+	Lv.1: What Everything Is, Where Everything Goes
 		Motherboard Form Factors and Case Size
 		Identification of Parts and Socket Types
 		Beginner Architecture (which are supported, how much support)
@@ -8,7 +8,7 @@ PC Building:
 		Basic Power Management (picking a sufficiently powerful PSU)
 		Safety and Sanitation Measures (e.g. avoiding static shocks)
 		Damage Control and Troubleshooting
-	Lv. 2: I Don't Have a Name for This Level Yet
+	Lv.2: I Don't Have a Name for This Level Yet
 		Overclocking
 		Advanced Cooling (how much cooling is needed; types of cooling)
 		Basic Architecture (support for multiple GPUs, RAID)

@@ -1,0 +1,12 @@
+PC Building Tasks
+
+Lv.1:
+  (Need to consider cost of tasks; the second is more cost-effective but the first is more intensive)
+  Build a computer, have it run without crashing (this necessitates installing an OS, drivers
+  Plan a computer that should work (shop around for parts, check for driver compatibility with OS of choice)
+
+Lv.2:
+  Overclock your computer without breaking it.
+
+Lv.3:
+  Mod a case or build your own working case.
